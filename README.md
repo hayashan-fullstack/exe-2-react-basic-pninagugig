@@ -2,8 +2,8 @@
 
 ### update details
 
-name:  
-id:
+name:  pninagugig
+id:322895723
 
 #### you have only to upload file "index.js" to repo.
   
